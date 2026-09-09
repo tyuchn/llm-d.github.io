@@ -173,3 +173,9 @@ vllm:
   label: vLLM
   permalink: /vllm
   description: vLLM inference engine integration and performance
+
+gke:
+  label: GKE
+  permalink: /gke
+  description: Google Kubernetes Engine deployments and benchmarks
+
